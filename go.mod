@@ -1,6 +1,6 @@
-module mcp-jina-ai
+module github.com/kealuya/mcp-jina-ai
 
-go 1.24.1
+go 1.23
 
 require (
 	github.com/go-resty/resty/v2 v2.16.5
